@@ -1,0 +1,40 @@
+
+
+body {
+
+    /* Background */
+    background-image: url("../images/mewbg.jpg");
+    background-position: bottom right;
+    background-repeat: no-repeat;
+    background-color: black;
+    background-size: 100%;
+    background-attachment: fixed;
+    color: #ffffff;
+}
+
+#title {
+
+    /* Jumbotron background     */
+    background-image: url("../images/psybg.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: #60376f;
+    background-size: 100%;
+
+    /* jumbotron text */
+    text-align: center;
+    margin-bottom: 10px;
+    margin-top: 30px;
+
+    /* Outline text with black border */
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+
+#scorebox {
+
+    /* Scorebox formatting and background */
+    text-align: center;
+    background-color: #60376f;
+    border: 5px solid #60376f;
+}
+
